@@ -1,0 +1,1 @@
+f f f f f f f f f f f f open square brackets table row g cell g table attributes columnalign right center left columnspacing 2px end attributes row g equals g row g equals g end table end cell end table close square brackets

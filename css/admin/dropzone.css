@@ -1,0 +1,13 @@
+.dropzone .dz-preview:hover .closebutton button{opacity:1;}
+.dropzone .dz-preview .closebutton button{opacity: 0; width: 30px; height: 30px; background-color: #165eaa; border-radius: 50%; text-align: center;padding-top: 7px; box-shadow: none; border: 1px solid #165eaa; position: absolute; right: 5px; top: 5px;z-index: 999; cursor: pointer; transition: 0.5s; -webkit-transition: 0.5s; -moz-transition: 0.5s; -o-transition: 0.5s; -ms-transition: 0.5s; outline:none;
+background-image: url(../close-buttons.png); background-repeat: no-repeat;background-position: center; }
+.dz-success-mark{display: none;}
+.dz-error-mark{display: none;}
+.dropzone {min-height: 150px;border: 1px solid #d2d2d2;background: white;padding: 20px 20px;background: #f9f9f9;}
+.dz-details .dz-filename{overflow: hidden;height: 42px;text-overflow: ellipsis;-webkit-line-clamp: 2; -webkit-box-orient: vertical; display: -webkit-box; position: absolute; width: 130px;}
+.dropzone.dz-started .dz-message {display: none; }
+.dropzone .dz-message {text-align: center;margin: 60px 0; }
+.dropzone .dz-preview {position: relative;display: inline-block;vertical-align: top;margin: 16px;min-height: 160px; }
+.dropzone .dz-preview:hover {z-index: 1000; }
+.dropzone .dz-preview:hover .dz-details {opacity: 1; }
+.dropzone .dz-preview.dz-image-preview {background: #fff;border: 1px solid #ccc;padding: 16px;border-radius: 3px; }

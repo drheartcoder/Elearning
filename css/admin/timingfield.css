@@ -1,0 +1,54 @@
+.timingfield .timingfield_hours,
+.timingfield .timingfield_minutes,
+.timingfield .timingfield_seconds {
+  display: inline-block;
+  width: 26%;
+    position: relative;
+    margin-right: 15px;
+}
+
+.timingfield .timingfield_hours .timingfield_next,
+.timingfield .timingfield_minutes .timingfield_next,
+.timingfield .timingfield_seconds .timingfield_next {
+  border-radius: 3px 3px 0 0;
+  border-bottom: 0 none;
+    position: absolute;right: 0;top: 0;width: 25px;
+padding: 0;
+height: 18px;
+margin: 0;
+}
+
+.timingfield .timingfield_hours .input-group,
+.timingfield .timingfield_minutes .input-group,
+.timingfield .timingfield_seconds .input-group {
+  width: 77%;
+}
+
+.timingfield .timingfield_hours .input-group input,
+.timingfield .timingfield_hours .input-group .input-group-addon,
+.timingfield .timingfield_minutes .input-group input,
+.timingfield .timingfield_minutes .input-group .input-group-addon,
+.timingfield .timingfield_seconds .input-group input,
+.timingfield .timingfield_seconds .input-group .input-group-addon {
+  border-radius: 0;
+  text-align: center;
+}
+
+.timingfield .timingfield_hours .input-group .input-group-addon,
+.timingfield .timingfield_minutes .input-group .input-group-addon,
+.timingfield .timingfield_seconds .input-group .input-group-addon {
+  width: 47%;
+    border-radius: 3px;
+    padding-top: 7px;
+}
+
+.timingfield .timingfield_hours .timingfield_prev,
+.timingfield .timingfield_minutes .timingfield_prev,
+.timingfield .timingfield_seconds .timingfield_prev {
+  border-radius: 0 0 3px 3px;
+  border-top: 0 none;
+    position: absolute;right: 0;bottom: 0;width: 25px;
+padding: 0;
+height: 18px;
+margin: 0;
+}

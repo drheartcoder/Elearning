@@ -1,0 +1,58 @@
+/*
+
+ * Author - Harshen Amarnath Pandey
+ * Version - 1.0.8
+ * Release - 18th April 2015
+ * Copyright (c) 2014 - 2018 Harshen Pandey
+*/
+
+/* jquery.countdownTimer.css*/
+
+.style {
+   width: 100%;
+   font-family: 'heebomedium';   
+}
+
+.colorDefinition {    
+    color : #3e4348; border-radius: 5px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fafafa+0,f2f2f2+100 */
+background: rgb(250,250,250); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(250,250,250,1) 0%, rgba(242,242,242,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(250,250,250,1) 0%,rgba(242,242,242,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(250,250,250,1) 0%,rgba(242,242,242,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
+}
+
+.timer-section{float: right;margin-top: 47px;}
+.time-head-section{margin-bottom: 5px;}
+.time-head-section span{font-family: 'heebolight';color: #000000;font-size: 13px;width: 45px;display: inline-block;text-align: center;}
+
+.size_xl {
+   font-size:50px;
+   border-width: 8px;
+   border-radius: 6px;
+}
+
+.size_lg {
+   font-size:18px;   
+    padding: 11px 15px;
+}
+
+.size_md {
+   font-size:30px;
+   border-width: 5px;
+   border-radius: 4px;
+}
+
+.size_sm {
+   font-size:20px;
+   border-width: 3px;
+   border-radius: 3px;
+}
+
+.size_xs {
+   font-size:15px;
+   border-width: 2px;
+   border-radius: 2px;
+}
+

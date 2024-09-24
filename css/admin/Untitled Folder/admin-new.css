@@ -1,0 +1,12 @@
+.sidebar{background: #0f6bb0;width: 230px;z-index: 999}
+.navigation > li.active > a, .navigation > li.active > a:hover, .navigation > li ul{background-color: #105BA0;}
+.navigation > li > ul li:first-child, .navigation > li > ul li:last-child{padding: 0;}
+.navigation > li > ul li.active > a, .navigation > li > ul li > a:hover, .navigation > li > ul li > a:focus{background: #004b90;}
+.panel-flat > .panel-heading{background: #105ba0;}
+.navigation li.search-li-section{border-color: #105BA0;height: 36px;}
+.page-header .breadcrumb-line:first-child{z-index: 99}
+.navbar-header {min-width: 230px;}
+.pace-done.sidebar-xs .search-section input{position: absolute;left: 36px;background: #0f6bb0;height: 41px;top: -5px;width: 0px;padding: 0;/*transition: 0.5s;*/}
+.pace-done.sidebar-xs .search-li-section:hover input{width: 260px;padding: 0 15px;border-radius: 5px;}
+.sidebar-xs .sidebar-main .navigation > li > a > span{background: #105BA0;border-color: #105BA0;}
+.sidebar-xs .sidebar-main .navigation > li > ul{background: #105BA0}

@@ -1,0 +1,1 @@
+fraction numerator 2 over denominator 3 root index 6 of 3 end fraction cross times open square brackets table row 1 row 1 end table close square brackets begin inline style sum from 4 to 1 of end style

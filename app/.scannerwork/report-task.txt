@@ -1,0 +1,6 @@
+projectKey=elearning
+serverUrl=http://192.168.1.147:81
+serverVersion=7.2.1.14109
+dashboardUrl=http://192.168.1.147:81/dashboard?id=elearning
+ceTaskId=AWUip2IBvAvY_3wQNNAn
+ceTaskUrl=http://192.168.1.147:81/api/ce/task?id=AWUip2IBvAvY_3wQNNAn
